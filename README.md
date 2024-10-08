@@ -22,26 +22,68 @@
 
 ## ⭐️ 주요 기능
 
+### 📌 로그인
+
+- 이메일로 로그인이 가능합니다.
+
+![image](https://github.com/user-attachments/assets/0abde13a-75b9-47ab-a32a-a773e8b38faa)
+
+### 📌 회원가입
+
+- 이메일로 회원가입이 가능합니다.
+- 각 입력값이 올바른 형식인지 검사합니다.
+
+![image](https://github.com/user-attachments/assets/e4295061-6c30-49b4-8e04-b6cdcd5723f6)
+![image](https://github.com/user-attachments/assets/bdb61dcd-4c4b-42d5-b5e9-f32ad5143e9a)
+![image](https://github.com/user-attachments/assets/ec0eb03a-7914-4b02-965b-ac288510fd81)
+
+
 ### 📌 문제 조회
 
 - 유저들이 포스팅한 문제들을 소셜 구조로 확인 가능합니다.
-  ![image](https://github.com/j2an777/ThinkTank_FE/assets/110087099/be64cb59-40d8-4710-a421-fb1f4617529d)
+- 각 문제에 좋아요, 댓글 수, 해당 문제를 맞춘수가 표시됩니다.
+
+  ![image](https://github.com/user-attachments/assets/fdc1c06a-d3fa-4910-9d49-d4c67560f4fb)
+
 
 ### 📌 문제 생성
 
 - 문제 내용과 정답 코드, 테스크 케이스로 구성하여 문제를 생성합니다.
-  ![image](https://github.com/j2an777/ThinkTank_FE/assets/110087099/4810588e-7d1e-4abe-9cef-298727a2b4fc)
+  ![image](https://github.com/user-attachments/assets/7e0b07de-f284-46a3-9be7-cf8eb3df9033)
+  ![image](https://github.com/user-attachments/assets/61500fea-c81c-4953-b148-acba8a49f775)
+
+
 
 ### 📌 문제 풀이
 
 - 유저들이 올린 문제를 풀어보아 정답을 확인할 수 있습니다.
-  ![image](https://github.com/j2an777/ThinkTank_FE/assets/110087099/e05ed10c-1c4f-4b10-8f93-61e7fe5df0e4)
 
-### 📌 정보 조회
+![image](https://github.com/user-attachments/assets/ab3b0c2f-b710-4b8f-b1ae-49d9f37d682e)
+![image](https://github.com/user-attachments/assets/bbecfa48-e35c-4480-86e0-4a25cf99aee4)
+
+### 📌 댓글
+
+- 각 문제에 댓글을 남길 수 있습니다.
+![image](https://github.com/user-attachments/assets/d293d365-edd7-41d9-a721-1d52bc9de6b3)
+![image](https://github.com/user-attachments/assets/bcbb2aac-ee82-4060-8ed6-24afd97ba718)
+
+
+
+### 📌 유저 정보 조회
 
 - 자신의 활동(만든 문제, 맞은 문제, 즐겨 찾기)을 조회 가능합니다.
 - 메인 페이지에서 타 유저의 닉네임 클릭으로 정보 조회 가능합니다.
-  ![image](https://github.com/j2an777/ThinkTank_FE/assets/110087099/74ae4f3e-3d98-48fc-aad6-f60fb6b5ba33)
+![image](https://github.com/user-attachments/assets/a2efbd3a-2570-4b33-94dc-ddaf23881e07)
+
+
+
+### 📌 프로필 수정
+
+- 자신의 프로필을 수정할 수 있습니다.
+- 로그아웃 및 회원탈퇴를 할 수 있습니다.
+![image](https://github.com/user-attachments/assets/9777e945-0984-4721-bc28-6b1e62e81e9b)
+![image](https://github.com/user-attachments/assets/631306b3-16e4-4ca7-8e84-364cd0822392)
+
 
 <br/>
 
@@ -66,9 +108,9 @@
 ## 🧑‍🧑‍🧒‍🧒 Front TEAMMATE 소개
 
 | ![강신범](https://github.com/kangsinbeom.png) | ![김수현](https://github.com/gamjatan9.png) | ![하승진](https://github.com/j2an777.png) |
-| --------------------------------------------- | ------------------------------------------- | ----------------------------------------- | --- |
-| [강신범](https://github.com/kangsinbeom)      | [김수현](https://github.com/gamjatan9)      | [하승진](https://github.com/j2an777)      |
-| **FrontEnd**                                  | **FrontEnd**                                | **FrontEnd**                              |     |
+| --------------------------- | ---------------------------------- | ---------------------------------- | 
+| [강신범](https://github.com/kangsinbeom)      | [김수현](https://github.com/gamjatan9)      | [하승진](https://github.com/j2an777)|
+| **FrontEnd**                                  | **FrontEnd**                                | **FrontEnd**        |    
 | FE 팀장, 문제 생성 및 풀이, 배포              | 로그인, 회원가입, 마이페이지                | 메인페이지, 라우팅, 메뉴, 좋아요          |
 
 <br/>
